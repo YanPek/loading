@@ -1,2 +1,2 @@
 # loading
-Loading example python 3.x
+Example of loading python 3.x
